@@ -1,5 +1,5 @@
 <h1 align="center">Hello I'm Subodh Singh</h1>
-<h3 align="center">A passionate Data Scientist and Machine Learning enthusiast from India</h3>
+<h3 align="center">A passionate Web developer and Machine Learning enthusiast from India</h3>
 <img align="right" alt="Machine learning" width="400" src="https://cdn.rentechdigital.com/common_files/blogs/machine-learning-swipecart-blog-img-01-31-08-2022.gif">
 - 👨‍💻 All of my projects are available at [https://github.com/Subodh3601](https://github.com/Subodh3601)
 
