@@ -3,7 +3,7 @@
 <img align="right" alt="Machine learning" width="400" src="https://cdn.rentechdigital.com/common_files/blogs/machine-learning-swipecart-blog-img-01-31-08-2022.gif">
 - 👨‍💻 All of my projects are available at [https://github.com/Subodh3601](https://github.com/Subodh3601)
 
-- 📫 How to reach me **subsin360@gmail.com**
+- 📫 How to reach me **subodhsingh360@gmail.com**
 
 - ⚡ Motivational view **Nurture your present, Future will be fruitful**
 
